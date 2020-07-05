@@ -12,7 +12,3 @@ class Calci:
 vin = Calci(4, 6, 7)
 print(vin.sum())
 print(vin.mul())
-
-
-def test:
-    pass
